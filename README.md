@@ -1,7 +1,7 @@
 # AnnKharlamovaADEU
 
 #Lab works
-[Типы данных] ( ).
+[Типы данных] (https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/untitled0.ipynb).
 [Поток команд-управляющие структуры] ( ).
 [Подпрограммы] ( ).
 [Вычислительная сложность алгоритмов] ( ).
