@@ -6,7 +6,7 @@
 
 [4. Поток команд-управляющие структуры](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/%D0%9B%D0%B0%D0%B1%D0%B0_4.ipynb).
 
-[5. Подпрограммы]( ).
+[5. Подпрограммы](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/5_%D0%BB%D0%B0%D0%B1%D0%B0.ipynb).
 
 [6. Вычислительная сложность алгоритмов]( ).
 
