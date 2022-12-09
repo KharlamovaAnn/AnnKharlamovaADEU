@@ -8,7 +8,7 @@
 
 [5. Подпрограммы](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/5_%D0%BB%D0%B0%D0%B1%D0%B0.ipynb).
 
-[6. Вычислительная сложность алгоритмов]( ).
+[6. Вычислительная сложность алгоритмов](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/Lab6.ipynb).
 
 [7. Ошибки и исключения]( ).
 
