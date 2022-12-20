@@ -16,7 +16,7 @@
 
 [9. Модули и пакеты]( ).
 
-
+https://colab.research.google.com/drive/142fP9_fXjJ591IeXSSOG0W7QAcAwAvFC?usp=sharing#scrollTo=gA0OpNSbwdwN
 
 
 
