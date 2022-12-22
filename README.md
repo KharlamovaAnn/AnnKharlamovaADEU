@@ -10,7 +10,7 @@
 
 [6. Вычислительная сложность алгоритмов](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/Lab6.ipynb).
 
-[7. Ошибки и исключения]( ).
+[7. Ошибки и исключения](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/Lab7.ipynb).
 
 [8. Файлы и сериализация данных]( ).
 
