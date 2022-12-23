@@ -12,7 +12,7 @@
 
 [7. Ошибки и исключения](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/Lab7.ipynb).
 
-[8. Файлы и сериализация данных]( ).
+[8. Файлы и сериализация данных](https://github.com/KharlamovaAnn/AnnKharlamovaADEU/blob/main/Lab_8_ipynb%22.ipynb).
 
 [9. Модули и пакеты]( ).
 
